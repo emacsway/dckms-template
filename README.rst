@@ -379,6 +379,12 @@ markdown файлов на Github Pаges обрабатываются Jekyll.
 
    - `source code <https://github.com/taskjuggler/TaskJuggler>`__
    - `импортер из Jira <https://github.com/melexis/jira-juggler>`__
+   - `импортер из Redmine <https://github.com/chris2fr/redmine_taskjuggler>`__
+   - `OpenProject integration <https://www.project-open.com/en/integration-taskjuggler>`__
+   - `импортер из Trac <https://trac-hacks.org/browser/taskjugglerplugin?rev=16580>`__
+   - `импортер из org-mode: <https://orgmode.org/worg/org-tutorials/org-taskjuggler.html>`__
+   - `Web-based UI <https://www.project-open.com/en/integration-taskjuggler>`__
+
    - документация:
 
       - https://taskjuggler.org/download/TaskJuggler-Workshop.pdf
