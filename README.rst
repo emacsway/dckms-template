@@ -374,6 +374,8 @@ markdown файлов на Github Pаges обрабатываются Jekyll.
 - "`imdone-core <https://github.com/imdone/imdone-core>`__" - Text based kanban processor (`Why? <https://github.com/imdone/imdone-core#resources>`__).
 - "`coddx-alpha <https://github.com/coddx-hq/coddx-alpha>`__" - Todo Kanban Board manages tasks and save them as TODO.md - a simple plain text file.
 - "`Orgzly <http://www.orgzly.com/>`__" - Outliner for notes and tasks. Notebooks in plain text (`Source Code <https://github.com/orgzly>`__).
+- "`Orgzly Revived <https://www.orgzlyrevived.com/>`__" - Outliner for taking notes and managing to-do lists. Notebooks in plain text (`Source Code <https://github.com/orgzly-revived/orgzly-android-revived>`__).
+- "`Orgro <https://orgro.org/>`__" - A mobile Org Mode file editor and viewer (`Source Code <https://github.com/amake/orgro>`__).
 - "`Org-roam <https://www.orgroam.com/>`__ - A plain-text personal knowledge management system based on org-mode.
 - "`Joplin <https://joplinapp.org/>`__" - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS (`Source Code <https://github.com/laurent22/joplin/>`__).
 - "`TaskJuggler <https://taskjuggler.org/>`__" is a modern and powerful, Free and Open Source Software project management tool. Its new approach to project planning and tracking is more flexible and superior to the commonly used Gantt chart editing tools.
