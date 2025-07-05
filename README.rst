@@ -374,7 +374,8 @@ markdown файлов на Github Pаges обрабатываются Jekyll.
 - "`imdone-core <https://github.com/imdone/imdone-core>`__" - Text based kanban processor (`Why? <https://github.com/imdone/imdone-core#resources>`__).
 - "`coddx-alpha <https://github.com/coddx-hq/coddx-alpha>`__" - Todo Kanban Board manages tasks and save them as TODO.md - a simple plain text file.
 - "`Orgzly <http://www.orgzly.com/>`__" - Outliner for notes and tasks. Notebooks in plain text (`Source Code <https://github.com/orgzly>`__).
-- "`Orgzly Revived <https://www.orgzlyrevived.com/>`__" - Outliner for taking notes and managing to-do lists. Notebooks in plain text (`Source Code <https://github.com/orgzly-revived/orgzly-android-revived>`__).
+- "`Orgzly Revived <https://www.orgzlyrevived.com/>`__" - Outliner for taking notes and managing to-do lists. Notebooks in plain text (`Source Code <https://github.com/orgzly-revived/orgzly-android-revived>`__). See also "`Org Mode Compact Guide <https://orgmode.org/orgguide.html>`__".
+- "`OrgNote <https://about.org-note.com/>`__" - OrgNote is a text-based note-taking application that implements the Zettelkasten principle and allows you to create your own personal knowledge base. OrgNote is open source, and built on top of Org Roam, a popular package for GNU Emacs.
 - "`Organic <https://organice.200ok.ch/>`__" - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers ("`Source Code <https://github.com/200ok-ch/organice>`__").
 - "`Orgro <https://orgro.org/>`__" - A mobile Org Mode file editor and viewer (`Source Code <https://github.com/amake/orgro>`__).
 - "`Org-roam <https://www.orgroam.com/>`__ - A plain-text personal knowledge management system based on org-mode.
