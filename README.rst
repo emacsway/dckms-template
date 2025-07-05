@@ -375,6 +375,7 @@ markdown файлов на Github Pаges обрабатываются Jekyll.
 - "`coddx-alpha <https://github.com/coddx-hq/coddx-alpha>`__" - Todo Kanban Board manages tasks and save them as TODO.md - a simple plain text file.
 - "`Orgzly <http://www.orgzly.com/>`__" - Outliner for notes and tasks. Notebooks in plain text (`Source Code <https://github.com/orgzly>`__).
 - "`Orgzly Revived <https://www.orgzlyrevived.com/>`__" - Outliner for taking notes and managing to-do lists. Notebooks in plain text (`Source Code <https://github.com/orgzly-revived/orgzly-android-revived>`__).
+- "`Organic <https://organice.200ok.ch/>`__" - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers ("`Source Code <https://github.com/200ok-ch/organice>`__").
 - "`Orgro <https://orgro.org/>`__" - A mobile Org Mode file editor and viewer (`Source Code <https://github.com/amake/orgro>`__).
 - "`Org-roam <https://www.orgroam.com/>`__ - A plain-text personal knowledge management system based on org-mode.
 - "`Org-node <https://github.com/meedstrom/org-node>`__" - A notetaking system like Roam using Emacs Org-mode.
